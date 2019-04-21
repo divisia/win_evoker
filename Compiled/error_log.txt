@@ -1,0 +1,42 @@
+System.IO.IOException: İşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\x1\AppData\Roaming\wallpaperImg.bmp' dosyasına erişemiyor.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalDelete(String path, Boolean checkHost)
+   konum: System.IO.File.Delete(String path)
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 139
+System.IO.IOException: İşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\x1\AppData\Roaming\wallpaperImg.bmp' dosyasına erişemiyor.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalDelete(String path, Boolean checkHost)
+   konum: System.IO.File.Delete(String path)
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 143
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.createBackground() C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 60
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 146
+System.IO.IOException: İşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\x1\AppData\Roaming\wallpaperImg.bmp' dosyasına erişemiyor.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalDelete(String path, Boolean checkHost)
+   konum: System.IO.File.Delete(String path)
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 135
+System.IO.IOException: İşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\x1\AppData\Roaming\wallpaperImg.bmp' dosyasına erişemiyor.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalDelete(String path, Boolean checkHost)
+   konum: System.IO.File.Delete(String path)
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 137
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.createBackground() C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 62
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 140
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.createBackground() C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 60
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 138
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.createBackground() C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 59
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 136
+System.NullReferenceException: Nesne başvurusu bir nesnenin örneğine ayarlanmadı.
+   konum: Graph.MainForm.createBackground() C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 60
+System.IO.IOException: İşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\x1\AppData\Roaming\wallpaperImg.bmp' dosyasına erişemiyor.
+   konum: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   konum: System.IO.File.InternalDelete(String path, Boolean checkHost)
+   konum: System.IO.File.Delete(String path)
+   konum: Graph.MainForm.btnSave_Click(Object sender, EventArgs e) C:\Users\x1\Documents\Graph\Graph\Form1.cs içinde: satır 138
